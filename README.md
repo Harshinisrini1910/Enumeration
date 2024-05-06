@@ -34,38 +34,38 @@ site: This operator allows you to search for pages that are within a specific we
 Following searches for all the sites that is in the domain yahoo.com
 
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/57032966-caf0-4dca-b331-f256459dae8e)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/4ec3a51a-5cb2-4736-b384-7362b720fbac)
 
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files.
 Following searches for pdf file in the domain yahoo.com
 
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/7cb5e6e5-81eb-4186-bb35-d6828654cf75)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/48a6728a-54ba-4f59-aea7-b28d33e2a201)
 
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/07029149-0261-432a-b2cd-4159f23f3370)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/5fd8c3a5-a87e-4451-b61b-27e8b3f2c5d5)
 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/4cb314a3-6dcc-4816-957a-4d1faf59a356)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/9d33fa57-ac37-4752-af71-5ea318355752)
 
 intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/23fc30af-b4a5-4e47-abb9-39dad6bc8c15)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/a4fdda6b-db19-4d07-9121-e30c43047efb)
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/9e9c264c-6738-4102-b7c2-28e5f4f29c2c)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/5ed6651b-ec2c-4f30-84f7-aeb9a737c1f6)
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/b13446a4-16cd-4222-84c5-fd16e65fc3e2)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/1d5aa82b-a816-4594-88df-adc8c6cb22c0)
 
 ## DNS Enumeration
 ## DNS Recon
@@ -75,8 +75,8 @@ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TX
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/d002eeff-e67b-47dc-847e-db14592ec091)
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/ae419ee4-7429-4408-a47e-377b73b86480)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/058c7fdc-a102-4452-8fe2-7fbff663fe91)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/b17defd4-a540-4b00-b8fd-a5a463d75077)
 
 ## dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
@@ -93,17 +93,17 @@ Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/63427c4a-3040-4ff0-a1c7-f565352c1c2d)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/5d7653d2-1f75-4ef5-a884-b6489f8cf491)
 
 ## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/e505b1d7-3d68-4c31-ba89-ce772d49a656)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/c317071e-9c8f-4dd3-b766-7135c635e907)
 
 In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/924c817a-1e64-49d2-a1d8-59558abf0d00)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/eb9ef4c5-260f-4575-a632-6c3542b30cec)
 
 select any username in the first column of the above file and check the same
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/ddeb08e9-a9d6-4285-897a-7799950e9f18)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/59426147-2259-4a52-83e0-d20a7668e368)
 
 ## Telnet for smtp enumeration
 Telnet allows to connect to remote host based on the port no. For smtp port no is 25
@@ -111,15 +111,14 @@ telnet <host address> 25 to connect
 and issue appropriate commands
 
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/0d7257dc-2815-44a6-8a24-e0fdd34978ee)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/965ecfac-ef10-4760-a770-ea5d7a25e540)
 
 ## nmap –script smtp-enum-users.nse <hostname>
 The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
 
 ## OUTPUT:
-![image](https://github.com/sakthipriyadhanusu/Enumeration/assets/119393194/5d379724-5e43-4ef7-b6a7-28adf299a557)
+![image](https://github.com/Harshinisrini1910/Enumeration/assets/161415847/20038e95-439f-4f35-8600-30b56c6e32c5)
 
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
-
